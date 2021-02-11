@@ -1,0 +1,5 @@
+node_modules
+
+# ignore distribution folder (only npm registry needs to know this) 
+
+dist/

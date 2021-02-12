@@ -1,0 +1,2 @@
+Cat Giphy Used: https://giphy.com/gifs/memecandy-VgOODy0U7ywWVd7wx0
+Package bundler image: https://blog.logrocket.com/benchmarking-bundlers-2020-rollup-parcel-webpack/

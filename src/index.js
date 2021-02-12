@@ -1,5 +1,6 @@
 import "./index.scss"
 
+//comment just to add some new stuff
 export const redDiv = (props) => {
     return (<div className="red-div">{props.children}</div>)
 }

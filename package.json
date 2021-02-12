@@ -1,11 +1,12 @@
 {
-  "name": "sample-project",
-  "version": "1.0.0",
+  "name": "@flober/sample-project",
+  "version": "0.0.0-development",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "author": "",
@@ -20,11 +21,12 @@
     "@rollup/plugin-node-resolve": "^11.1.1",
     "rollup": "^2.38.5",
     "rollup-plugin-peer-deps-external": "^2.2.4",
-    "rollup-plugin-sass": "^1.2.2"
+    "rollup-plugin-sass": "^1.2.2",
+    "semantic-release": "^17.3.8"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlastWind/sample-project.git" F
+    "url": "https://github.com/BlastWind/sample-project.git"
   },
   "files": [
     "dist/*"
